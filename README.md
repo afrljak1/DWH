@@ -1,2 +1,2 @@
 # SP
-Projekat-SKLADISTA PODATAKA
+Projekat za predmet-SKLADISTA PODATAKA
