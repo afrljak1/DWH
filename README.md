@@ -1,2 +1,2 @@
 # SP
-Projekat za predmet-SKLADISTA PODATAKA
+Projekat raden za predmet-SKLADISTA PODATAKA
